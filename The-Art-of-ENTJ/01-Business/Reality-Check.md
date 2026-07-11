@@ -38,7 +38,7 @@ The channels that hit $30k/month at *reachable* view counts do it by turning an 
 
 ## The honest risk statement
 
-- The [YouTube Partner Program](https://support.google.com/youtube/answer/72851) threshold is **1,000 subscribers + 4,000 valid public watch hours in 12 months** (or 3,000/90 days via Shorts). You earn **$0 from ads** until you clear it.
+- The [YouTube Partner Program](https://support.google.com/youtube/answer/72851) threshold for ad revenue is **1,000 subscribers + 4,000 valid public watch hours in the past 12 months** (or 1,000 subscribers + **10 million valid public Shorts views in 90 days**). A lower early-access tier (fan-funding only, no ads) opens at 500 subscribers. You earn **$0 from ads** until you clear the 1,000/4,000 gate. Verify current thresholds against the linked page — YouTube changes them.
 - Faceless ≠ effortless. YouTube's [reused/repetitious content](https://support.google.com/youtube/answer/6162278) policy demotes and demonetizes low-effort, mass-produced, or AI-slop channels. This brand's whole edge — original strategic analysis in a distinct voice — is also its compliance moat. Protect it. See [[Risk-and-Compliance]].
 - No timeline here is a promise. Treat every projection as a hypothesis to test, exactly as the Brand Bible's continuous-improvement loop treats every video as evidence.
 
