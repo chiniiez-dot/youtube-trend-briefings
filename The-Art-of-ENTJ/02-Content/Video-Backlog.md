@@ -8,20 +8,20 @@ Sixty titles built from the Brand Bible's headline engine, each mapped to its **
 
 These 12 are the strongest cold-open titles: broad appeal, clear pattern, easy to deliver in-brand. Ship these first.
 
-| # | Title | Pillar | Structure | Thumb |
-|---|---|---|---|---|
-| 1 | The competence trap: why being best gets you stuck | NP | Named law | D |
-| 2 | Machiavelli said be feared. He was half right. | MR | Machiavelli read | A |
-| 3 | Why the loudest person loses the long game | NP | Stakes, answered | B |
-| 4 | Power flows to whoever controls the exit | OM | Mechanism | E |
-| 5 | Being underestimated is a position, not an insult | NP | Reframe | D |
-| 6 | How power moves in a room nobody's leading | OM | Mechanism | E |
-| 7 | The favor trap: why helping can cost you status | NP | Named law | B |
-| 8 | Hard work isn't leverage. This is. | OM | Reframe | D |
-| 9 | The advisor who made a king need him | CS | Insider | A |
-| 10 | What operators understand about timing | OM | Insider | B |
-| 11 | Machiavelli's fox and lion, decoded for now | MR | Machiavelli read | B |
-| 12 | Why the second-smartest person runs the room | NP | Stakes, answered | A |
+| # | Title | Pillar | Structure | Thumb | Status |
+|---|---|---|---|---|---|
+| 1 | The competence trap: why being best gets you stuck | NP | Named law | D | 🟡 Scripted — [[Scripts/S01-The-Competence-Trap\|S01]] |
+| 2 | Machiavelli said be feared. He was half right. | MR | Machiavelli read | A | 🟡 Scripted — [[Scripts/S02-Feared-Half-Right\|S02]] |
+| 3 | Why the loudest person loses the long game | NP | Stakes, answered | B | |
+| 4 | Power flows to whoever controls the exit | OM | Mechanism | E | |
+| 5 | Being underestimated is a position, not an insult | NP | Reframe | D | |
+| 6 | How power moves in a room nobody's leading | OM | Mechanism | E | |
+| 7 | The favor trap: why helping can cost you status | NP | Named law | B | |
+| 8 | Hard work isn't leverage. This is. | OM | Reframe | D | |
+| 9 | The advisor who made a king need him | CS | Insider | A | |
+| 10 | What operators understand about timing | OM | Insider | B | |
+| 11 | Machiavelli's fox and lion, decoded for now | MR | Machiavelli read | B | |
+| 12 | Why the second-smartest person runs the room | NP | Stakes, answered | A | |
 
 ## Batch 2 — The Machiavelli Read (Pillar 1)
 

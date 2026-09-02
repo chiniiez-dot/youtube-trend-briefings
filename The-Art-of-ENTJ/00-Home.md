@@ -8,6 +8,19 @@ Read [[01-Business/Reality-Check|the Reality Check]] first. It tells you the tru
 
 ---
 
+## Current status
+
+**Phase 0 — Foundation.** In progress; the production-pipeline gate is the one item left open.
+
+- ✅ Backlog banked: 60 titles (need 20+) — see [[02-Content/Video-Backlog|Video Backlog]].
+- ✅ Cadence chosen and written down — see [[04-Operations/Weekly-Cadence|Weekly Cadence]].
+- 🟡 Launch slate scripting underway: **S01 — The Competence Trap** and **S02 — Feared: Half Right** are both scripted (status: *scripting*, packaging concepts scored) but not yet voiced, edited, or published.
+- ⬜ Gate not yet cleared: no video has gone start-to-finish through voice → visuals → edit → publish. That's the next milestone — see [[01-Business/Launch-Roadmap|Launch Roadmap]] Phase 0.
+
+*Status last updated: 2026-09-02.*
+
+---
+
 ## Map of content
 
 ### 00 — Brand
