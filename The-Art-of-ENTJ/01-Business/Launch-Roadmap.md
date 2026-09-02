@@ -14,6 +14,8 @@ The plan of record. Five phases, each with a **goal**, the **work**, and a **gat
 - Set up channel, [monetization-ready settings](https://support.google.com/youtube/answer/72857), an affiliate account, and a simple email waitlist / community shell (even empty).
 - **Gate:** one test video produced start-to-finish, 20 titles banked, cadence chosen and written down.
 
+**Status (2026-09-02):** ✅ 60 titles banked (backlog well past the 20 minimum). ✅ Cadence written down ([[Weekly-Cadence]]). 🟡 Launch slate #1 and #2 are scripted and packaged (see the [[Video-Backlog#Batch 1 — Launch slate (start here)|Batch 1]] production notes) but neither has gone through voice, visuals, edit, or publish yet — **the gate isn't cleared until one video clears that full pipeline.**
+
 ## Phase 1 — Prove the concept (Months 1–3)
 
 **Goal:** find out if the format resonates, before optimizing anything.
